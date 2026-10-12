@@ -31,8 +31,6 @@ Powered by [`java-llama.cpp`](https://github.com/kherud/java-llama.cpp) and pack
 Clone the repository and package the standalone fat-JAR:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/llm
 mvn clean package
 ```
 
